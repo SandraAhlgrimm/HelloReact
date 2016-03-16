@@ -98,10 +98,12 @@
 	    _createClass(Hello, [{
 	        key: 'render',
 	        value: function render() {
+	            var i = 123;
 	            return _react2.default.createElement(
 	                'h1',
 	                null,
-	                'Hello'
+	                'Hello ',
+	                i
 	            );
 	        }
 	    }]);
