@@ -1,5 +1,5 @@
-# hello_world_react
-ReactJS, ES6, Babel, Webpack
+# HelloReact
+A Hello World project using ReactJS, ES6, Babel and Webpack
 
 ## Usage
 npm install
