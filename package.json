@@ -1,7 +1,7 @@
 {
   "name": "hello_world_react",
   "version": "1.0.0",
-  "description": "Jubiläum, Geburtstage und Zeitraffer.",
+  "description": "Hello World project with React, Babel, ES6 and Webpack.",
   "main": "index.js",
   "scripts": {
     "test": "test",
